@@ -1,0 +1,48 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    font-family: sans-serif;
+    
+}
+
+
+/* *********************************************************** */
+
+.navbar-brand {
+    font-size: 2rem;
+  }
+
+  .nav-link
+  {
+    color: antiquewhite;
+  }
+  .nav-link:hover{
+    color: brown;
+}
+
+/* *********************************************************** */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+/* *********************************************************** */
+.card {
+    height: 100%;
+}
+
+.card-img-top {
+    height: 50%;
+    object-fit: cover;
+}
+/* *********************************************************** */
+.embed-responsive-16by9 iframe {
+    height: 100%;
+  }
+  
+
